@@ -1,0 +1,9 @@
+C:\Users\Onasi Cuevas\Desktop\Projects\project3\project3\bin\Debug\project3.exe
+C:\Users\Onasi Cuevas\Desktop\Projects\project3\project3\bin\Debug\project3.pdb
+C:\Users\Onasi Cuevas\Desktop\Projects\project3\project3\obj\Debug\project3.csprojAssemblyReference.cache
+C:\Users\Onasi Cuevas\Desktop\Projects\project3\project3\obj\Debug\project3.budgetApp.resources
+C:\Users\Onasi Cuevas\Desktop\Projects\project3\project3\obj\Debug\project3.Properties.Resources.resources
+C:\Users\Onasi Cuevas\Desktop\Projects\project3\project3\obj\Debug\project3.csproj.GenerateResource.cache
+C:\Users\Onasi Cuevas\Desktop\Projects\project3\project3\obj\Debug\project3.csproj.CoreCompileInputs.cache
+C:\Users\Onasi Cuevas\Desktop\Projects\project3\project3\obj\Debug\project3.exe
+C:\Users\Onasi Cuevas\Desktop\Projects\project3\project3\obj\Debug\project3.pdb
